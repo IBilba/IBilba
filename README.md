@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I am currently pursuing my studies in the Department of Computer Engineer and Informatics at University of Patras.
 - 🔭 I am presently working on learning more about programming languages and creating projects.
-- ⚡ Fun fact: I enjoy playing basketball.🏀⛹️‍♂️
+- ⚡ I enjoy playing basketball.🏀⛹️‍♂️
 <!--
 **IBilba/IBilba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
