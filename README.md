@@ -1,14 +1,15 @@
 ## 👋 About Me
 
-I'm a software engineer and data scientist passionate about building intelligent systems and full-stack applications.  My work spans across machine learning, web development, systems programming, and high-performance computing, with a focus on creating practical solutions to real-world problems.
+I'm a software engineer and data-oriented developer passionate about building intelligent, scalable, and reliable systems. My work spans machine learning, data engineering, and systems programming, with a strong focus on transforming data into practical, real-world solutions.
 
 ### 🔧 Technical Skills
 - **Languages:** Python, C, C++, Java, TypeScript, JavaScript
-- **Machine Learning:** Neural Networks, Linear Regression, Classification Algorithms, NLP
+- **Data & AI:** Machine Learning, Neural Networks, Classification Algorithms, NLP
+- **Data Engineering & Big Data:** Data Pipelines, Data Processing, Scalable Systems
+- **Database Systems:** DBMS Design & Implementation, Data Modeling
 - **Full-Stack Development:** React, Node.js, Web Technologies
 - **Systems Programming:** Operating Systems, Compiler Design, Low-level Programming
 - **Parallel Computing:** MPI, OpenMP, High-Performance Optimization
-- **Database Systems:** DBMS Design & Implementation with GUI
 
 ### 🚀 Featured Projects
 - **🏀 Real Mantri BC Dashboard** - Basketball analytics platform with real-time player statistics and performance metrics
@@ -20,7 +21,10 @@ I'm a software engineer and data scientist passionate about building intelligent
 - **💻 SmartBoard** - Interactive web application
 
 ### 🌱 Interests
-Machine Learning | Data Visualization | Sports Analytics | Healthcare Tech | Systems Architecture | Parallel Computing
+Databases | Data Engineering | Big Data | AI/ML | IoT  
+Data Visualization | Sports Analytics  
+Space Informatics (e.g. satellite data analysis)  
+System Reliability | Data Integrity | System Security  
 
 ### 📫 Let's Connect
-Always open to collaborating on innovative projects and discussing tech! 
+Always open to collaborating on innovative projects and discussing tech!
