@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm a software engineer and data-oriented developer passionate about building intelligent, scalable, and reliable systems. My work spans machine learning, data engineering, and systems programming, with a strong focus on transforming data into practical, real-world solutions.
+I'm a software engineer and data-oriented developer passionate about artificial intelligence, machine learning, data engineering and databases, with a strong focus on transforming data into practical, real-world solutions.
 
 ### 🔧 Technical Skills
 - **Languages:** Python, C, C++, Java, TypeScript, JavaScript
