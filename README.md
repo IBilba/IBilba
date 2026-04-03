@@ -5,7 +5,7 @@ I'm a software engineer and data-oriented developer passionate about building in
 ### 🔧 Technical Skills
 - **Languages:** Python, C, C++, Java, TypeScript, JavaScript
 - **Data & AI:** Machine Learning, Classification Algorithms
-- **Database Systems:** DBMS Design & Implementation, Data Modeling
+- **Database Systems:** DBMS Design & Implementation, Data Modeling, NoSQL
 - **Full-Stack Development:** React, Node.js, Web Technologies
 - **Systems Programming:** Operating Systems, Compiler Design, Low-level Programming
 - **Parallel Computing:** MPI, OpenMP, High-Performance Optimization
