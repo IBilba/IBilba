@@ -23,7 +23,6 @@ I'm a software engineer and data-oriented developer passionate about building in
 Databases | Data Engineering | Big Data | AI/ML | IoT  
 Data Visualization | Sports Analytics  
 Space Informatics (e.g. satellite data analysis)  
-System Reliability | Data Integrity | System Security  
 
 ### 📫 Let's Connect
 Always open to collaborating on innovative projects and discussing tech!
